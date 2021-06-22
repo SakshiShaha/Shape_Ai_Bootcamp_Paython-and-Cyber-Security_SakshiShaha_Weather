@@ -1,0 +1,10 @@
+-------------------------------------------------------------
+Weather Stats for - KAGAL  || 22 Jun 2021 | 11:33:37 AM
+-------------------------------------------------------------
+
+Current temperature is: 27.53 deg C
+Current weather desc  :overcast clouds
+Current Humidity      :63%
+Current wind speed    :6.74kmph
+
+-------------------------------------------------------------
